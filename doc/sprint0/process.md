@@ -26,7 +26,7 @@ is frequently reviewed with further supplementary meetings held whenever the tea
 While our meetings don't follow any concrete format, tasks, progress, and troubleshooting are topics discussed during these sessions, as 
 this setup provides the team with the ability to adapt to project needs and to each other's schedules.
 
-##Prioritization of User Stories
+## Prioritization of User Stories
 
 We approached this aspect through informal discussions of what seems most crucial to the application's functionality. As opposed to 
 taking polls, we found the best flow of ideas through regular calls. For example, we agreed early on that some of the key features that would
