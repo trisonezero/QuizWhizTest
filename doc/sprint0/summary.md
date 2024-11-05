@@ -1,4 +1,4 @@
-# Project Objective
+## **Project Objective**
 Build a quiz application that allows users to create custom questions and quizzes. The application enables the user to create questions, and from these questions, the user can compile a custom quiz.
 
 ## **Key Persona**
